@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/ref/01Conceitos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/bin/Debug/net5.0/01Conceitos.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/ref/01Conceitos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/01Conceitos/obj/Debug/net5.0/01Conceitos.genruntimeconfig.cache

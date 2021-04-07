@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/ref/08GetSet.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/bin/Debug/net5.0/08GetSet.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/ref/08GetSet.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/08GetSet/obj/Debug/net5.0/08GetSet.genruntimeconfig.cache

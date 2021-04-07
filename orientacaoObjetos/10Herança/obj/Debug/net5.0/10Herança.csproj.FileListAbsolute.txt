@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/ref/10Herança.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/bin/Debug/net5.0/10Herança.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/ref/10Herança.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/10Herança/obj/Debug/net5.0/10Herança.genruntimeconfig.cache

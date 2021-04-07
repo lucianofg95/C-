@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/ref/02Metodos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/bin/Debug/net5.0/02Metodos.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/ref/02Metodos.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/02Metodos/obj/Debug/net5.0/02Metodos.genruntimeconfig.cache

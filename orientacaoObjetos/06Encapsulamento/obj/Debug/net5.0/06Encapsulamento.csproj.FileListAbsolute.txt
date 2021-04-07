@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/ref/06Encapsulamento.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/bin/Debug/net5.0/06Encapsulamento.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/ref/06Encapsulamento.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/06Encapsulamento/obj/Debug/net5.0/06Encapsulamento.genruntimeconfig.cache

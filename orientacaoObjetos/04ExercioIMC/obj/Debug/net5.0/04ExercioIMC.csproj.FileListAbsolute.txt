@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/ref/04ExercioIMC.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/bin/Debug/net5.0/04ExercioIMC.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/ref/04ExercioIMC.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/04ExercioIMC/obj/Debug/net5.0/04ExercioIMC.genruntimeconfig.cache

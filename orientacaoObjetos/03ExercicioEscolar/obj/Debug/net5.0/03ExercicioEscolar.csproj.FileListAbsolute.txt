@@ -1,0 +1,16 @@
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.csprojAssemblyReference.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.AssemblyInfoInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.AssemblyInfo.cs
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar.deps.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar.runtimeconfig.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar.runtimeconfig.dev.json
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/ref/03ExercicioEscolar.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/bin/Debug/net5.0/03ExercicioEscolar.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/ref/03ExercicioEscolar.dll
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.pdb
+/home/luciano/Área de Trabalho/git/orientacaoObjetos/03ExercicioEscolar/obj/Debug/net5.0/03ExercicioEscolar.genruntimeconfig.cache
